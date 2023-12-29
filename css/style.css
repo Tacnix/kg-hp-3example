@@ -1383,9 +1383,9 @@ a.banner-video-icon:hover {
 	background-image: none;
 }
 
-#intro-11.intro-section {
+/* #intro-11.intro-section {
 	background-image: url(../images/intro-tra-world.png);
-}
+} */
 
 #intro-14.intro-section {
 	background-image: url(../images/intro-mountains.png);
@@ -2179,7 +2179,7 @@ span.goalAmount {
 }
 
 #services-2-2 {
-	background-image: url(../images/world-map-transparent.png);	
+	background-image: url(../images/intro-pattern.png);	
 	background-position: top center;		
 }
   
@@ -2264,9 +2264,9 @@ span.goalAmount {
 	padding-left: 0; 
 }
 
-#content-9-1, #content-9-2 {
+/* #content-9-1, #content-9-2 {
 	background-image: url(../images/bg-3.jpg);		
-}
+} */
 
 #content-10-1 .row {
 	margin: 0;
@@ -2320,7 +2320,7 @@ span.goalAmount {
 /*------------------------------------------*/  
    
 .content-9-txt-holder { 
-	background-color: rgba(37, 198, 255, 0.85);
+	background-color: rgba(74, 123, 179, 1);
 	padding: 100px 55px;
 }   
    
@@ -2506,19 +2506,19 @@ span.goalAmount {
 }
 
 .content-7-1-img { 
-	background-image: url(../images/content-7-1.jpg);
+	background-image: url(../images/prodcuts/product3.png);
 }
 
 .content-7-2-img { 
-	background-image: url(../images/content-7-2.jpg);
+	background-image: url(../images/prodcuts/product7.png);
 }
 
 .content-7-3-img { 
-	background-image: url(../images/content-7-3.jpg);
+	background-image: url(../images/prodcuts/product6.png);
 }
 
 .content-7-4-img { 
-	background-image: url(../images/content-7-4.jpg);
+	background-image: url(../images/prodcuts/product7.png);
 }
 
 .content-7-5-img { 
@@ -2526,7 +2526,7 @@ span.goalAmount {
 }
 
 .content-7-6-img { 
-	background-image: url(../images/content-7-6.jpg);
+	background-image: url(../images/prodcuts/product8.png);
 }
 
 /*------------------------------------------*/
@@ -3508,9 +3508,9 @@ span.discont {
 	background-image: url(../images/banner-1.jpg);	
 } 
 
-#banner-2 {
+/* #banner-2 {
 	background-image: url(../images/banner-2.jpg);	
-} 
+}  */
 
 #banner-3 {
 	background-image: url(../images/banner-3.jpg);
@@ -4143,7 +4143,7 @@ p.author {
    ========================================================================== */ 
 
 #call-to-action-1 {
-	background-image: url(../images/call-to-action-1.jpg);
+	background-image: url(../images/hero8.png);
 }
 
 #call-to-action-4 {
